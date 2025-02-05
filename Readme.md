@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DWAQUhG8Oj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-<img src="https://raw.githubusercontent.com/Raman-8888/Raman-8888/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Raman-8888/hardikkumar4472/output/snake.svg" alt="Snake animation" />
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Raman-8888&theme=github-dark&border=border&animated=true)
 
